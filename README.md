@@ -1,8 +1,6 @@
-# WARP.md
 
-This file provides guidance to WARP (warp.dev) when working with code in this repository.
 
-## Project Overview
+## Project Pack
 
 Pack V1 is a Python-based "packlet" (workflow) manager that allows users to create, store, and execute custom shell command sequences with various execution modes and privilege configurations. The project provides both a CLI interface for creating packlets and an execution engine for running them.
 
