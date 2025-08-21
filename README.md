@@ -106,3 +106,12 @@ All created packlets are stored in the `packlets/` directory, which is automatic
 - Sudo execution is configurable per packlet via the `$isudo` parameter
 - Commands are executed through shell subprocess calls, so standard shell injection precautions apply
 - Bulldozer mode can potentially mask security-relevant command failures
+
+# Generous people ❤️
+
+...nothing here,yet!
+
+## Credits
+
+- robert19066 -> Main developer
+- (Your name could be here! The first step is to get in the generous people section!)
