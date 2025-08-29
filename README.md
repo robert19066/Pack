@@ -2,7 +2,7 @@
 
 ![logo](https://i.postimg.cc/7LMDYCL6/project-pack-logo.png)
 
-Project Pack V1, or simply Pack, is a Python-based "packlet" (workflow) manager that allows users to create, store, and execute custom shell command sequences with various execution modes and privilege configurations. The project provides both a CLI interface for creating packlets and an execution engine for running them.
+Pack, is a Python-based "packlet" (workflow) manager that allows users to create, store, and execute custom shell command sequences with various execution modes and privilege configurations. The project provides both a CLI interface for creating packlets and an execution engine for running them.
 
 Dev note: Trust me, it's really [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
